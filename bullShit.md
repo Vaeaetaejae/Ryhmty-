@@ -1,10 +1,20 @@
 
-#1 Ryhmätyö Mikko, Mikael, Marika, Aale, Aapo, Joonas
+# GIT + GitHub ryhmätyö
+## Peliohjelmointiyritys
+## Liiketoiminnankuvaus.md
 
-Yrityksemme
-testi
-Moro minä aion kirjoittaa sitten niistä sovelluksista ja ohjelmistosta ja kaikesta muusta kivasta t. Aapo
- 
- hellouu my name is marika heh lol
- Mä silmiäni usko en, ku se Reijosen Pekka teki sen, täydelliiiisennn, paaaaskan oppitunnin
+
+### Mikael Martimo, 
+
+
+## Johdanto
+
+Yrityksemme on pelinsuunnitteluun erikoistunut ohjelmointiyritys, nimeltänsä GetRekt. Yrityksen henkilökuntaan kuuluu kuusi ihmistä, joten yrityksemme on vielä taipaleensa alussa.
+
+
+
+##1 Laitteisto (Mikael)
+
+
+
  
