@@ -7,3 +7,8 @@
  ### Mikael Martimo
  
  Kirjoitin johdannon työhön.
+ 
+ ## 30.9.2019
+ ### Mikko Väätäjä
+ 
+ aloin kirjoittamaan toolchainia. Mikä kieli valittiin ja IDE ja IC.
