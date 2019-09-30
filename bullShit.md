@@ -1,13 +1,5 @@
-ensimmäinen lause....
-toinen lause
-noni uusipäivä
-mahtavaa jee
 
+#1 Ryhmätyö Mikko, Mikael, Marika, Aale, Aapo, Joonas
 
-
-NOJOKO TÄMÄ PASKAA WÖRKKII
-44444444
-
-
-wouwou
-ketä vittu kiinnostaa
+Yrityksemme
+testi
