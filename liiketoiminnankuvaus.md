@@ -13,4 +13,4 @@ Yrityksemme on pelinsuunnitteluun erikoistunut ohjelmointiyritys, nimeltänsä G
 
 
 ##1 Laitteisto (Mikael)
-Yrityksemme laitteisto
+Yrityksemme laitteisto koostuu ennen kaikkea henkilökunnan PC-laitteistosta, sillä pelinsuunnitteluun erikoistuneena yrityksenä henkilökunnan PC-laitteiston toiminta on tietysti välttämätöntä. Koska pelinsuunnittelu vaatii PC-laitteistolta tehokkuutta, on myös tähän panostettava.
