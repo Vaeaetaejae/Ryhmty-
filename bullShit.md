@@ -7,4 +7,4 @@ Moro minä aion kirjoittaa sitten niistä sovelluksista ja ohjelmistosta ja kaik
  
  hellouu my name is marika heh lol
  Mä silmiäni usko en, ku se Reijosen Pekka teki sen, täydelliiiisennn, paaaaskan oppitunnin
- 
+ jou t. aapo
