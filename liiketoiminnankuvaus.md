@@ -19,6 +19,11 @@ Yrityksemme henkilökunnan laitteistoon kuuluu kuudet keskusyksiköt, ja niiden 
 
 Sopivaksi hiireksi valikoitui Razer DeathAdder Elite. Razerin hiiret ovat tarkoitettu pelikäyttöön, joten kyllähän pelinsuunnitteluun erikoistuneella yrityksellä täytyy olla pelihiiret käytössään. Hiiren hinta on 69.95e/ kpl. Päätimme mennä saman brändin tuotteella näppäimistönkin kanssa, joten näppäimistöksi valitsimme Razer Deathstalker Chroman. (94,95 e/kpl) Tässä näppäimistössä on rannetuki lisänä, joten ranne ei ainakaan puudu koneella ollessa. Kuulokkeiden valitsemisessa tuli miettiä erityisesti kuulokkeiden tarjoamia ominaisuuksia. Halusimme yrityksellemme kuulokkeet, joissa oli mikrofoni, sekä suhteellisen hyvä äänentoisto. Kuulokkeiksi valitsimme HyperX Cloud II. Kuulokkeilla on hintaa n. 100e/kpl.
 
+<<<<<<< HEAD
+Jokainen henkilökuntaan kuuluvalla henkilöllä tulee olla työpuhelin, johon asiakkaat voivat ottaa yhteyttä. Työpuhelimessa ei tarvitse olla sen suurempia ominaisuuksia tai hienouksia, joten valitsimme työpuhelimiksi Samsung Galaxy A10-älypuhelimen. (Puhelimella on hintaa 159e/kpl)
+=======
 Jokainen henkilökuntaan kuuluvalla henkilöllä tulee olla työpuhelin, johon asiakkaat voivat ottaa yhteyttä. Työpuhelimessa ei tarvitse olla sen suurempia ominaisuuksia tai hienouksia, joten valitsimme työpuhelimiksi Samsung Galaxy A10-älypuhelimen. Puhelimella on hintaa 159e/kpl.
 
 nyt on päivitetty tätä
+>>>>>>> 4168289b90b61708b88871fef60c00ff2c216b71
+nyt on päivitetty
