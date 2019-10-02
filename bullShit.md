@@ -1,13 +1,13 @@
 
-# GIT + GitHub ryhmätyö
-## Peliohjelmointiyritys
-## Liiketoiminnankuvaus.md
+#GIT + GitHub ryhmätyö
+##Peliohjelmointiyritys
+##Liiketoiminnankuvaus.md
 
 
-### Mikael Martimo, 
+###Mikael Martimo, 
 
 
-## Johdanto
+##Johdanto
 
 Yrityksemme on pelinsuunnitteluun erikoistunut ohjelmointiyritys, nimeltänsä GetRekt. Yrityksen henkilökuntaan kuuluu kuusi ihmistä, joten yrityksemme on vielä taipaleensa alussa.
 
@@ -16,5 +16,5 @@ Yrityksemme on pelinsuunnitteluun erikoistunut ohjelmointiyritys, nimeltänsä G
 ##1 Laitteisto (Mikael)
 
 
-
+Aapo testaa
  
