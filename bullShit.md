@@ -13,8 +13,9 @@ Yrityksemme on pelinsuunnitteluun erikoistunut ohjelmointiyritys, nimeltänsä G
 
 
 
+
 ##1 Laitteisto (Mikael)
 
-
+terve
 Aapo testaa
  
