@@ -18,4 +18,4 @@ Yrityksemme on pelinsuunnitteluun erikoistunut ohjelmointiyritys, nimeltänsä G
 
 terve
 Aapo testaa
- 
+Terve t. Aapo
