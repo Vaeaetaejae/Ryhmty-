@@ -11,7 +11,8 @@
 
 Yrityksemme on pelinsuunnitteluun erikoistunut ohjelmointiyritys, nimeltänsä GetRekt. Yrityksen henkilökuntaan kuuluu kuusi ihmistä, joten yrityksemme on vielä taipaleensa alussa.
 
-wha'dup? not much, I got a big ship.
+
+
 
 ##1 Laitteisto (Mikael)
 
