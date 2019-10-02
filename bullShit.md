@@ -15,6 +15,6 @@ wha'dup? not much, I got a big ship.
 
 ##1 Laitteisto (Mikael)
 
-
+terve
 Aapo testaa
  
