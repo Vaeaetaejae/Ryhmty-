@@ -22,3 +22,8 @@
  ### Mikael Martimo
  
  Kirjoitin liiketoiminnankuvaukseen laitevalinnoista, näppäimistöt, hiiret, kuulokkeet, työpuhelimet.
+ 
+ ## 3.10.2019
+ ### Joonas Ahonen
+
+Kirjoitin liiketoimnnankuvaikseen toimintaperiaatteista ja projektitoiminnasta silleen pyöreesti.
