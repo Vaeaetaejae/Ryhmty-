@@ -27,3 +27,8 @@
  ### Joonas Ahonen
 
 Kirjoitin liiketoimnnankuvaikseen toimintaperiaatteista ja projektitoiminnasta silleen pyöreesti.
+
+##03.10.2019
+###Marika Takalo
+
+Aloitin kirjoittamaan tiloista, ei vielä valmis
