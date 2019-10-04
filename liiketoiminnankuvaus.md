@@ -1,7 +1,7 @@
 # GIT + GitHub ryhmätyö
 ## Peliohjelmointiyritys
 
-### Mikael Martimo, 
+### Mikael Martimo, Mikko Väätäjä
 
 
 ## Johdanto
