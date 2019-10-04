@@ -33,6 +33,15 @@ Kirjoitin liiketoimnnankuvaikseen toimintaperiaatteista ja projektitoiminnasta s
  ### Marika Takalo
 
 Aloitin kirjoittamaan tiloista, ei vielä valmis
+
  ## 03.10.2019
  ### Aale Lehtoniemi
  Kirjoitin tarkennuksia liketoiminnankuvauksen tuotehintoihin.
+ 
+ ## 4.10.2019
+ ### Mikko Väätäjä
+ Lisäilin toolchainiin sisältöä vähä
+ 
+ ## 4.10.2019
+ ### Mikko Väätäjä
+ Kirjotin toolchainia loputtomasti. Kirjotanko yksin tätä?
