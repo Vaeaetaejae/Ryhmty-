@@ -10,14 +10,24 @@ Yrityksemme on pelinsuunnitteluun erikoistunut ohjelmointiyritys, nimeltänsä G
 
 ## Liiketoiminnankuvaus
 
-###Tilat 
+### Liiketoimintasuunnitelma (Marika)
 
-Tehdäksemme töitä täydellä potentiaalilla, työskentelytila on normaali työhuoneisto, jossa kaikki kuusi työntekijää mahtuu työskentelemään. Kaikilla on oma työpiste, mihin mahtuu tarvittavat tehokkaaseen työskentelyyn vaadittavat työkalut. Valitsimme BEKANT:n sähköllä säädettävän työpöydän, joka mahdollistaa erilaiset työskentelyasennot. Pöydän korkeutta voi säädellä moottorilla 65-125 cm:n välillä. mikä mahdollistaa ergonomisen työskentelyasennon löytämisen.  Istumatyössä on tärkeää vaihtaa päivän mittaan asentoa, sillä se parantaa työkykyä ja työntekijän vointia. Pöydällä on hintaa 499e/kpl ja se on melko hintava, mutta sopii silti budjettiimme. 
+Yrityksemme GetRekt on ohjelmointiyritys, joka on erikoistunut pelisuunnitteluun. GetRekt ei ole kovin vanha yritys, se on lähtenyt vasta hiljattain nousuun. Ohjelmoimme asiakkaille heidän toiveidensa mukaisesti pelejä ja pyrimme toteuttamaan nämä toiveet parhaalla ammattitaidolla sekä laitteistolla. Meillä löytyy osaamista monesta eri videopelilajityypeistä eli peligenreistä, joten voimme toteuttaa laajalti asiakkaittemme toiveita. Ohjelmoimme pelejä konsoleille mutta myös mobiililaitteille.
+
+Markkinoimme yritystämme pääosin Ravioli -mainosyrityksen kanssa, he osaavat ohjata osaamistamme tarvitsevat asiakkaat luoksemme. Sen lisäksi mainostamme yritystämme sähköisillä mainostauluilla, sanomalehdissä ja tekemällä työmme moitteettoman hyvin, sillä asiakastyytyväisyys on loppujen lopuksi paras tapa tulla ihmisten tietoisuuteen.
+
+yrityksessä työsketelevien osaamisesta, tulevaisuuden suunnitelmat, yritystoiminta, liikekumppanit (Ravioli + se musiikki yritys), kilpailevat yritykset
+
+
+### Tilat (Marika)
+
+Tehdäksemme töitä täydellä potentiaalilla, työskentelytila on normaali työhuoneisto, jossa kaikki kuusi työntekijää mahtuu työskentelemään. Kaikilla on oma työpiste, mihin mahtuu tarvittavat tehokkaaseen työskentelyyn vaadittavat työkalut. Valitsimme BEKANT:n sähköllä säädettävän työpöydän, joka mahdollistaa erilaiset työskentelyasennot. Pöydän korkeutta voi säädellä moottorilla 65-125 cm:n välillä. mikä mahdollistaa ergonomisen työskentelyasennon löytämisen.  Istumatyössä on tärkeää vaihtaa päivän mittaan asentoa, sillä se parantaa työkykyä ja työntekijän vointia. Pöydällä on hintaa 499e/kpl ja se on melko hintava, mutta sopii silti budjettiimme. lisää shittiä tähän
 
 
 
 
-##1 Laitteisto (Mikael, Aale)
+## 1 Laitteisto (Mikael, Aale)
+
 Yrityksemme laitteisto koostuu ennen kaikkea henkilökunnan PC-laitteistosta, sillä pelinsuunnitteluun erikoistuneena yrityksenä henkilökunnan PC-laitteiston toiminta on tietysti välttämätöntä. Koska pelinsuunnittelu vaatii PC-laitteistolta tehokkuutta, on myös tähän panostettava. Tämän vuoksi laitteistoon hankitaan tietokoneisiin kahdet erilliset näytöt, koska tällöin pelinsuunnittelu on helpompaa, ja hankimme sellaiset keskusyksiköt, jotka soveltuvat raskaaseen käyttöön, eli erityisesti näytönohjaimen ja prosessorin on oltava tehokkaita. Tämä vaatii tietysti melko isoa alkupääomaa, sillä tehokkaat keskusyksiköt ovat luonnollisesti arvokkaita verrattuna tavalliseen toimistokäyttöön tarkoitettuihin keskusyksikköihin/kannettaviin tietokoneisiin. Siksi henkilöstömme käyttöön tulevien keskusyksiköiden tulisi soveltua vähintään keskiraskaaseen pelaamiseen.
 
 Yrityksemme henkilökunnan laitteistoon kuuluu kuudet keskusyksiköt, ja niiden lisäksi kahdet näytöt kaikille keskusyksiköille (kaikille henkilökuntaan kuuluville), sillä se helpottaa työntekoa huomattavasti pelinsuunnittelussa. Lisäksi mukaan kuuluu tietenkin kaikkiin keskusyksiköihin hiiret ja näppäimistöt sekä headsetit (eli kuuloke ja mikrofoni). Keskusyksiköksi valittiin Jimm's PC-Store -verkkokaupan tarjoama Jimm's Gamer Striker 5700 XT -pelitietokone hintaan 1649,00e/kpl, koska se soveltuu raskaaseen pelaamiseen ja se oli edullisin tähän tarkoitukseen sopiva keskusyksikkö. Näytöksi valitsimme Gigantin verkkokaupasta Asus VG245HE 24" -näytön, koska se on pelikäyttöön sopiva ja sopivan hintainen (150e/kpl).
@@ -33,7 +43,8 @@ Jokaisella henkilökuntaan kuuluvalla henkilöllä tulee olla työpuhelin, johon
 
 
 
-##3 Yrityksen sisäiset toimintamallit ja projekti käytäntö (Joonas)
+## 3 Yrityksen sisäiset toimintamallit ja projekti käytäntö (Joonas)
+
 Pelialalla motivaation on suuri tekijä tehokkuuden ja tuotteen laadun suhteen, siinä missä kalusto ja ohjelmistosto. Aiomme omassa yrityksessämme viljellä hyvää työilmapiiria noudattamalla fail-fast menetelmää joka minimoi kustannuksia uusien peliprojektien kokeilemisessa. Fail-fast menetelmässä olennaista on kiteyttää idean ydin mahdollisimman yksinkertaiseen ja tiiviiseen pakettiin, jotta siitä voitaisiin tehdä testiprojekti, eli "proof of concept" tuote, joka sisätää pelin ydin mekaniikat yksinkertaistettuna ja suuremmasti viilaamattomina, työpanoksen ja resurssien säästämiseen tähdäten. Tästä proof-of-conceptista näkee mahdollisimman nopeaa tuotteen potentiaalin ja sen voi yleisö testata hallitusti. 
 
 Jotta työntekijöiden motivaatio saataisiin pysymään mahdollisimman korkealla, tulisi projektien konseptoimiseen sallia työaikaa, mutta kohtuudella jotta työn alla olevat projektit eivät kärsisi. Täten sallimme viikon verran konseptilomaa, jonka aikana yrityksen jäsen voi käyttää työaikaansa ja yrityksen resursseja väistävästi konseptin toteuttamiseksi, jonka päätyttyä konsepti testataan ja tuomitaan kelpoisuutensa perusteella, konseptien omistajuudesta ei tule kiistellä enää tuominta vaiheessa vaan sen omistajuus kuulukoot konseptin toteuttajille jos konsepti arkistoidaan tai hylätään. Tuomiosta riippumatta, yrityksen jäsen palaa työtehtviinsä.
