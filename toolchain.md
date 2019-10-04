@@ -45,6 +45,8 @@
  
  Vuonna 2011 riita Oraclen kans (entinen Sun) johti tilanteeseen jossa avoimeen lähdekoodiin perustuva Hudson jakautui kahtia. Tuli Jenkins. Molemmat ovat toiminnassa vielä mutta Jenkins on paljon suositumpi kun Hudson. 
  
+ Saatana
+ 
  
 
  
