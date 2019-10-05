@@ -12,7 +12,7 @@
  ### Mikko Väätäjä
  Aloin kirjoittamaan toolchainia. Mikä kieli valittiin ja IDE ja IC.
  
- ##1.10.2019
+ ## 1.10.2019
  ### Aale Lehtoniemi
  Keskusyksiköiden valinta, näyttöjen valinta.
  
