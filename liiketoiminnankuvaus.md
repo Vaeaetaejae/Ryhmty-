@@ -2,7 +2,7 @@
 ## Peliohjelmointiyritys
 
 
-##  Liiketoiminnankuvaus
+### Liiketoiminnankuvaus
 
 Yrityksemme GetRekt on ohjelmointiyritys, joka on erikoistunut pelisuunnitteluun. Ohjelmoimme asiakkaille heidän toiveidensa mukaisesti pelejä ja pyrimme toteuttamaan nämä toiveet parhaalla ammattitaidolla sekä laitteistolla. Meillä löytyy osaamista monesta eri videopelilajityypeistä eli peligenreistä, joten voimme toteuttaa laajalti asiakkaittemme toiveita. Ohjelmoimme pelejä pc:lle ja mobiililaitteille konsoleille.
 
@@ -16,7 +16,7 @@ Tulevaisuuden suunnitelmana meillä on laajentaa yritystämme kansainvälisille 
 
 
 
-##  Laitteisto 
+###  Laitteisto 
 
 Yrityksemme laitteisto koostuu ennen kaikkea henkilökunnan PC-laitteistosta, sillä pelinsuunnitteluun erikoistuneena yrityksenä henkilökunnan PC-laitteiston toiminta on tietysti välttämätöntä. Koska pelinsuunnittelu vaatii PC-laitteistolta tehokkuutta, on myös tähän panostettava. Tämän vuoksi laitteistoon hankitaan tietokoneisiin kahdet erilliset näytöt, koska tällöin pelinsuunnittelu on helpompaa, ja hankimme sellaiset keskusyksiköt, jotka soveltuvat raskaaseen käyttöön, eli erityisesti näytönohjaimen ja prosessorin on oltava tehokkaita. Tämä vaatii tietysti melko isoa alkupääomaa, sillä tehokkaat keskusyksiköt ovat luonnollisesti arvokkaita verrattuna tavalliseen toimistokäyttöön tarkoitettuihin keskusyksikköihin/kannettaviin tietokoneisiin. Siksi henkilöstömme käyttöön tulevien keskusyksiköiden tulisi soveltua vähintään keskiraskaaseen pelaamiseen.
 
@@ -33,7 +33,7 @@ Jokaisella henkilökuntaan kuuluvalla henkilöllä tulee olla työpuhelin, johon
 
 
 
-## Yrityksen sisäiset toimintamallit ja projekti käytäntö
+### Yrityksen sisäiset toimintamallit ja projekti käytäntö
 
 Pelialalla motivaation on suuri tekijä tehokkuuden ja tuotteen laadun suhteen, siinä missä kalusto ja ohjelmisto. Aiomme omassa yrityksessämme viljellä hyvää työilmapiiriä noudattamalla fail-fast menetelmää, joka minimoi kustannuksia uusien peliprojektien kokeilemisessa. Fail-fast menetelmässä olennaista on kiteyttää idean ydin mahdollisimman yksinkertaiseen ja tiiviiseen pakettiin, jotta siitä voitaisiin tehdä testiprojekti, eli "proof of concept" tuote, joka sisältää pelin ydinmekaniikat yksinkertaistettuna ja suuremmalti viilaamattomina, työpanoksen ja resurssien säästämiseen tähdäten. Tästä proof-of-conceptista näkee mahdollisimman nopeaa tuotteen potentiaalin ja sen voi yleisö testata hallitusti. 
 
