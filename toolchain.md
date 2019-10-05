@@ -1,5 +1,6 @@
 # GIT + GitHub ryhmätyö
 ## Peliohjelmointiyrityksen työkalut
+###### Mikael Martimo, Mikko Väätäjä, Aale Lehtoniemi, Joonas Ahonen, Marika Takalo, Aapo Ahtinen
 
  ### Suunnittelu ja ohjelmointi
  Ohjelmointikieleksi valitsimme C#. Se on helppokäyttöinen ja helposti luettava kieli ja sillä pystyy ohjelmoimaan mitä vain, mutta on erittäin hyvä ja kykenevä eri sovellusten ja pelien ohjelmointiin. C#:lla voi myös tehdä verkkosivuja ja puhelinsovelluksia ja on laajuutensa ansioista nykyään erittäin suosittu kieli. C# tukee myös melkein kaikkia alustoja.
