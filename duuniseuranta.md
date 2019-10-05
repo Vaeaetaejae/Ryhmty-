@@ -1,6 +1,7 @@
  # GIT + GitHub ryhmätyö
- ## Duuniseuranta
  ###### Mikael Martimo, Mikko Väätäjä, Aale Lehtoniemi, Joonas Ahonen, Marika Takalo, Aapo Ahtinen
+ ## Duuniseuranta
+
 
 
  
