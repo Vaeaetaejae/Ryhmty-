@@ -1,6 +1,6 @@
 # GIT + GitHub ryhmätyö
 ## Peliohjelmointiyritys
-
+###### Mikael Martimo, Mikko Väätäjä, Aale Lehtoniemi, Joonas Ahonen, Marika Takalo, Aapo Ahtinen
 
 ### Liiketoiminnankuvaus
 
