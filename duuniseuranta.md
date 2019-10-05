@@ -32,7 +32,7 @@ Kirjoitin liiketoimnnankuvaikseen toimintaperiaatteista ja projektitoiminnasta s
  ## 03.10.2019
  ### Marika Takalo
 
-Aloitin kirjoittamaan tiloista, ei vielä valmis
+Aloitin kirjoittamaan liiketoiminnankuvausta, ei vielä valmis
 
  ## 03.10.2019
  ### Aale Lehtoniemi
@@ -48,4 +48,5 @@ Aloitin kirjoittamaan tiloista, ei vielä valmis
  
  ## 04.10.2019
  ### Marika Takalo
- Kirjoitin liiketoiminnansuunnittelua, muokkasin vähän koko tekstin rakennetta
+ Kirjoitin liiketoiminnankuvauksen, muokkasin vähän koko tekstin rakennetta
+ 
