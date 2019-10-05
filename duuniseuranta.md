@@ -45,3 +45,7 @@ Aloitin kirjoittamaan tiloista, ei vielä valmis
  ## 4.10.2019
  ### Mikko Väätäjä
  Kirjotin toolchainia loputtomasti. Kirjotanko yksin tätä?
+ 
+ ## 04.10.2019
+ ### Marika Takalo
+ Kirjoitin liiketoiminnansuunnittelua, muokkasin vähän koko tekstin rakennetta
