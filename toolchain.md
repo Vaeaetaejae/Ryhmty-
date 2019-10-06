@@ -3,6 +3,10 @@
 ## Peliohjelmointiyrityksen työkalut
 
  ### Suunnittelu ja ohjelmointi
+ 
+ Ensimmäisiä ryhmänkeskeisiä pohdinnanaiheita olivat yrityksen perustamiseen tarvittavat laitteistot (tietokoneet ja oheislaitteet ja niin edelleen) sekä kaikki, mitä yritys tulee tarvitsemaan peliohjelmointiin.
+ 
+ 
  Ohjelmointikieleksi valitsimme C#. Se on helppokäyttöinen ja helposti luettava kieli ja sillä pystyy ohjelmoimaan mitä vain, mutta on erittäin hyvä ja kykenevä eri sovellusten ja pelien ohjelmointiin. C#:lla voi myös tehdä verkkosivuja ja puhelinsovelluksia ja on laajuutensa ansioista nykyään erittäin suosittu kieli. C# tukee myös melkein kaikkia alustoja.
  
  C# on moderni ohjelmointikieli jonka kehitteli Anders Hejsberg vuonna 2000 Microsoftille. Se on pitkälti samanlainen kuin Java- kieli. Javan kehitteli Sun yhtiö, mikä muuttui myöhemmin Oracleksi. Sun ei halunnut Microsoftin muokkaavan Javaa, niinpä he loivat oman kielen C#. Sen takia C# ja Java muistuttavat erittäin paljon toisiaan.
@@ -11,12 +15,12 @@
  
  C#:issa on paljon erilaisia ominaisuuksia, jotka tekevät sen helpoksi kieleksi. Se on korkealuokkainen ohjelmointikieli mitä on helppo lukea. Siitä on poistettu monia monimutkaisia ominaisuuksia ja ohjelmoitu ne helpommaksi, jotta ohjelmoijan ei tarvitse miettiä niitä. 
 
- Unity on monialustainen pelimoottori, jolla voidaan ohjelmoida 2D peleistä - VR peleihin. Unity käyttää Nvidian PhysX-fysiikkamoottoria. Unityssä voidaan käyttää kolmea eriä ohjelmointikieltä. Javascript (Unityscript), Boo ja C#. UnityScriptiä luullaan monesti JavaScriptiksi, vaikka ne ovatkin eri kieliä. Boo taas muistuttaa Pythonia ja C# taas Javaa. C-kieli on kuitenkin käytetyin kieli Unityssa. C# pärjää paremmin tehokkuudessa kuin UnityScript suorituskykynsä
- ansiosta. 
+ Unity on monialustainen pelimoottori, jolla voidaan ohjelmoida 2D peleistä - VR peleihin. Unity käyttää Nvidian PhysX-fysiikkamoottoria. Unityssä voidaan käyttää kolmea eriä ohjelmointikieltä. Javascript (Unityscript), Boo ja C#. UnityScriptiä luullaan monesti JavaScriptiksi, vaikka ne ovatkin eri kieliä. Boo taas muistuttaa Pythonia ja C# taas Javaa. C-kieli on kuitenkin käytetyin kieli Unityssa. C# pärjää paremmin tehokkuudessa kuin UnityScript suorituskykynsä ansiosta. 
+ 
  
  ### Github
  
- Käytämme Githubia ryhmässä, koska se on paikka missä voi säilyttää ja jakaa ohjelmistoprojekteja ilmaiseksi rajattomia määriä. Siellä voi luoda ykstyisiä tai julkisia ohjelmistoprojekteja. Keskeisin ominaisuus on GIT palvelin, eli hajautettu versionhallinta. Saman projektin kimpussa työskentelevät voivat tehdä samanaikaisesti muutoksia yhteen tai useampaan rinnakkain kehitettävään versioon ja sitten voi helposti nähdä kuka on tehnyt mitäkin muutoksia ja tarvittaessa voidaan ottaa vanha versio esiin tai palauttaa yksittäisiä muutoksia.
+ Käytämme Githubia ryhmässä, koska se on paikka missä voi säilyttää ja jakaa ohjelmistoprojekteja ilmaiseksi rajattomia määriä. Siellä voi luoda yksityisiä tai julkisia ohjelmistoprojekteja. Keskeisin ominaisuus on GIT- palvelin, eli hajautettu versionhallinta. Saman projektin kimpussa työskentelevät henkilöt voivat tehdä samanaikaisesti muutoksia yhteen tai useampaan rinnakkain kehitettävään versioon, ja siten voi helposti nähdä, kuka on tehnyt mitäkin muutoksia, ja tarvittaessa voidaan ottaa vanha versio esiin tai palauttaa yksittäisiä muutoksia.
  
  Git on avoimen lähdekoodin versionhallinta järjestelmä, jonka loi Linus Trovalds, eli sama henkilö, joka loi myös Linuxin. Nimi Git tarkoittaa brittienglannin slangissa ääliötä, ja Linus Torvalds kertoi ottaneensa ohjelmistolle nimen Git, koska "olen egoistinen paskiainen, ja nimeän kaikki projektini itseni mukaan. Ensin Linux, sitten Git. Kun kehittäjät luovat jotain, he tekevät muutoksia koodiin jatkuvasti vapauttaen uusia versioita ensimmäiseen versioon. Versiohallintajärjestelmät pitävät nämä tarkistukset suorina ja tallentavat muutokset keskusrekisteriin. Tämä mahdollistaa kehittäjien helpon yhteistyön, koska he voivat ladata uuden ohjelmistoversion, tehdä muutoksia ja ladata uusimman version. Jokainen kehittäjä näkee nämä uudet muutokset, lataa ne ja osallistuu niihin.
  
@@ -39,7 +43,7 @@
  
  ### Jenkins
  
- CI:ksi valitsimme Jenkinsin. Jenkins on avoimeen lähdekoodiin perustuva CI. Jenkins mahdollistaa sen, että vaikka koodia kirjoitetaan jatkuvasti, se tarkistaa, että koodi toimii silti eikä kaada ohjemia. Jenkins on yteensopiva Unityn kanssa, joka mahdollistaa työnteon mahdollisimman vähällä vaivalla. Jenkins mahdollistaa myös verkkosivujen rakentamisen ja sovellusten koodauksen. Se tukee myös kaikkia alustoja ja tukee mahdollisimman montaa kieltä, mukaan lukien C#, mitä käytämme. Jenkins näyttää koodien kirjoittamisen reaaliajassa myös ryhmissä joka mahdollistaa ryhmässä työskentelyn.
+ CI:ksi valitsimme Jenkinsin. Jenkins on avoimeen lähdekoodiin perustuva CI. Jenkins mahdollistaa sen, että vaikka koodia kirjoitetaan jatkuvasti, se tarkistaa, että koodi toimii silti eikä kaada ohjemia. Jenkins on yhteensopiva Unityn kanssa, joka mahdollistaa työnteon mahdollisimman vähällä vaivalla. Jenkins mahdollistaa myös verkkosivujen rakentamisen ja sovellusten koodauksen. Se tukee myös kaikkia alustoja ja tukee mahdollisimman montaa kieltä, mukaan lukien C#, mitä käytämme. Jenkins näyttää koodien kirjoittamisen reaaliajassa myös ryhmissä joka mahdollistaa ryhmässä työskentelyn.
  
  Jenkins on yksinkertainen jatkuvan integraation sovellus mikä tukee myös melkein kaikkia kieliä. 
  
