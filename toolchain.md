@@ -4,8 +4,9 @@
 
  ### Suunnittelu ja ohjelmointi
  
- Ensimmäisiä ryhmänkeskeisiä pohdinnanaiheita olivat yrityksen perustamiseen tarvittavat laitteistot (tietokoneet ja oheislaitteet ja niin edelleen) sekä kaikki, mitä yritys tulee tarvitsemaan peliohjelmointiin.
+ Ensimmäisiä ryhmänkeskeisiä pohdinnanaiheita olivat yrityksen perustamiseen tarvittavat laitteistot (tietokoneet ja oheislaitteet ja niin edelleen) sekä kaikki, mitä yritys tulee tarvitsemaan peliohjelmointiin. Periaatteemme ryhmäpohdinnassa oli kuulla jokaisen henkilön rehellinen mielipide eri ehdotuksiin sekä yritystä koskeviin valintoihin (mm. tietokoneiden valinta). Uskomme, että avain yrityksemme menestymiseen on rehellisyyden ja hyvän ilmapiirin ylläpitäminen. 
  
+ Tietokoneita valitessamme mietimme yhdessä eri käyttöjärjestelmien eroja sekä niiden huonoja ja hyviä puolia. Päädyimme yksimieliseen ratkaisuun, että Windows olisi kaikista paras vaihtoehto meidän yrityksellemme. Se on kaikkien mielestä helppokäyttöisempi, kuin vaikka esimerkiksi Linux, tai Applen tekemä ja kehittämä macOS. Lisäksi Windows on käyttöjärjestelmä, jota kaikki ovat käyttäneet eniten, joten se on myös tuttu ja turvallinen valinta meille. Muut käyttöjärjestelmät tuntuvat liian oudoilta ja ehkä jopa vaikeasti lähestyttäviltä. Windowsiin tulee lisäksi jatkuvasti sekä lyhyin väliajoin uusia päivityksiä, jotka yleensä keskittyvät suorituskyvyn parantamiseen. 
  
  Ohjelmointikieleksi valitsimme C#. Se on helppokäyttöinen ja helposti luettava kieli ja sillä pystyy ohjelmoimaan mitä vain, mutta on erittäin hyvä ja kykenevä eri sovellusten ja pelien ohjelmointiin. C#:lla voi myös tehdä verkkosivuja ja puhelinsovelluksia ja on laajuutensa ansioista nykyään erittäin suosittu kieli. C# tukee myös melkein kaikkia alustoja.
  
