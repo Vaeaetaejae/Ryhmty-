@@ -28,11 +28,6 @@ Jokaisella henkilökuntaan kuuluvalla henkilöllä tulee olla työpuhelin, johon
 
 
 
-
-
-
-
-
 ### Yrityksen sisäiset toimintamallit ja projekti käytäntö
 
 Pelialalla motivaatio on suuri tekijä tehokkuuden ja tuotteen laadun suhteen, siinä missä kalusto ja ohjelmisto. Aiomme omassa yrityksessämme viljellä hyvää työilmapiiriä noudattamalla fail-fast menetelmää, joka minimoi kustannuksia uusien peliprojektien kokeilemisessa. Fail-fast menetelmässä olennaista on kiteyttää idean ydin mahdollisimman yksinkertaiseen ja tiiviiseen pakettiin, jotta siitä voitaisiin tehdä testiprojekti, eli "proof of concept" tuote, joka sisältää pelin ydinmekaniikat yksinkertaistettuna ja suuremmalti viilaamattomina, työpanoksen ja resurssien säästämiseen tähdäten. Tästä proof-of-conceptista näkee mahdollisimman nopeaa tuotteen potentiaalin ja sen voi yleisö testata hallitusti. 
