@@ -52,4 +52,4 @@
  
  ## 6.10.2019
  ### Aapo Ahtinen
- Kirjoitin toolchainiin käyttöjärjestelmistä ja muokkasin hieman koko työn ulkoasua miellyttävämmäksi.
+ Täydensin toolchainia valmiiksi ja muokkasin hieman koko työn ulkoasua miellyttävämmäksi.
