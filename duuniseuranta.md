@@ -46,7 +46,7 @@
  ### Marika Takalo
  Kirjoitin liiketoiminnankuvauksen, otin vapauden muokata työn rakennetta, kielioppivirheitä ja otsikointia.
  
- ##6.10.2019
+ ## 6.10.2019
  ### Mikael Martimo
  Korjasin kielioppia kumpaankin dokumenttiin.
  
