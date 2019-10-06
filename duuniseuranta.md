@@ -50,3 +50,6 @@
  ### Mikael Martimo
  Korjasin kielioppia kumpaankin dokumenttiin.
  
+ ## 6.10.2019
+ ### Aapo Ahtinen
+ Kirjoitin toolchainiin käyttöjärjestelmistä ja muokkasin hieman koko työn ulkoasua miellyttävämmäksi.
